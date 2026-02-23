@@ -10,6 +10,7 @@ $fullName = '';
 $birthdate = '';
 $favoriteColor = '';
 $nickname = '';
+$favoritePlace = '';
 
 $add = false;
 $edit = false;
